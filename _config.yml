@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hi, I'm Justin"
   avatar           : "profile.jpg"
-  bio              : "Technical writer, experienced in software development, application support, teaching, and other leadership roles. Visit my CV to learn more!"
+  bio              : "Technical writer, experienced in software development, software documentation, application support, help desk management, knowledge base documentation, and teaching. Visit my CV to learn more!"
   location         : "Little Rock, AR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jsholt42/"
+  linkedin         : "jsholt42"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
