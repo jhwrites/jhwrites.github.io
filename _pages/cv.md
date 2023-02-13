@@ -15,22 +15,24 @@ Education
 
 Professional Development and Certifications
 ======
-* CompTIA Security+, 2020
-* Technical Writing: How to Write Software Documentation, Udemy, 2023
+* CompTIA Security+, July 2020
+* Technical Writing: How to Write Software Documentation, Udemy, January 2023
+* SkyRun Vacation Rentals Employee of the Month, October 2022
 
 Work experience
 ======
-* Application Support Specialist<br>SkyRun Vacation Rentals, March 2021 – February 2023
-  * Work with business support team to plan, research, write, and revise online documentation used by 30+ businesses, used by over 100 employees.
-  * Collaborate with development and other cross-functional teams to ensure technical accuracy of new and existing documentation for proprietary software.
-  * Construct 50+ and maintain 350+ technical documents in FreshService knowledge base.
-  * Prepare escalated requests for development staff in the form of technical guidelines using Jira and Confluence.
+* Application Support Specialist<br><i>SkyRun Vacation Rentals, March 2021 – February 2023</i>
+  * Work with business support team to <b>plan, research, write, and revise online documentation</b> used by 30+ businesses.
+  * Collaborate with development and other cross-functional teams to ensure <b>technical accuracy</b> of new and existing documentation for proprietary software.
+  * Construct over 50 and maintain over 350 technical documents in FreshService <b>knowledge base</b>.
+  * Prepare escalated requests for development staff in the form of technical guidelines using <b>Jira</b> and <b>Confluence</b>.
   * Manage administrative server functions, including back-ups, upgrades, recovery, and management of disk space.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Associate Software Engineer<br><i>SAIC, June 2020 – November 2020</i>
+  * Partake in regular Scrum meetings utilizing Agile methodologies.
+  * Perform duties including analysis, design, coding, integration, testing, documentation, and support.
+
+* Teaching Assistant<br><i>
   
 Skills
 ======
