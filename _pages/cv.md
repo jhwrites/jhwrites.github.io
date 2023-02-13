@@ -48,7 +48,7 @@ Key Skills
 * Help Desk Management
   * Customer service, technical support, KPI, SLA, procedures, hardware, information technology, API documentation, communication, strategy and strategic vision, time management, knowledge and understanding of industry standards, critical thinking
 * Software Testing
-  * System bugs, bug documentation, software design, end-user training, XML, HTML/CSS, JavaScript
+  * System bugs, bug documentation, software design, web design, end-user training, XML, HTML/CSS, JavaScript
 
 
 Professional Development and Certifications
