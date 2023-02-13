@@ -32,7 +32,18 @@ Work experience
   * Partake in regular Scrum meetings utilizing Agile methodologies.
   * Perform duties including analysis, design, coding, integration, testing, documentation, and support.
 
-* Teaching Assistant<br><i>
+* Teaching Assistant<br><i>Tennessee Technological University, August 2018 – May 2020</i>
+  * Conduct weekly lab meetings and hold office hours with undergraduate students enrolled in CSC1300 and CSC1310. 
+  * Debug students' code to help them work towards a solution while remaining conscious of efficiency, redundancy, and accuracy.
+  * Assist course professors by answering questions, hosting in-class quizzes, and grading weekly programming assignments.
+  * Draft programming assignments and instructions by collaborating with class professor, encouraging students to utilize intuition in order to effectively solve technical problems.
+
+* Help Desk Student Associate<br><i>May 2019 – May 2020</i>
+  * Assist faculty, staff and students with technology both in-person and virtually via the Bomgar remote support tool.
+  * Document instances and troubleshooting progress via the Footprints ticketing system.
+
+* Resident Assistant<br><i>August 2017 – May 2019</i>
+  * Design and implement programs for residents that enhance the social, educational, and personal development that connects them to their community.
   
 Skills
 ======
