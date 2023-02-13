@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Tennessee Technological University, 2020
+
+Professional Development and Certifications
+======
+* CompTIA Security+, 2020
+* Technical Writing: How to Write Software Documentation, Udemy, 2023
 
 Work experience
 ======
