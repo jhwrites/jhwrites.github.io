@@ -15,28 +15,28 @@ Education
 
 Work experience
 ======
-* Application Support Specialist<br><i>SkyRun Vacation Rentals, March 2021 – February 2023</i>
+* <b>Application Support Specialist</b><br><i>SkyRun Vacation Rentals, March 2021 – February 2023</i>
   * Work with business support team to <b>plan, research, write, and revise online documentation</b> used by 30+ businesses.
   * Collaborate with development and other cross-functional teams to ensure <b>technical accuracy</b> of new and existing documentation for proprietary software.
   * Construct over 50 and maintain over 350 technical documents in FreshService <b>knowledge base</b>.
   * Prepare escalated requests for development staff in the form of technical guidelines using <b>Jira</b> and <b>Confluence</b>.
   * Manage administrative server functions, including back-ups, upgrades, recovery, and management of disk space.
 
-* Associate Software Engineer<br><i>SAIC, June 2020 – November 2020</i>
+* <b>Associate Software Engineer (Intership)</b><br><i>SAIC, June 2020 – November 2020</i>
   * Partake in regular Scrum meetings utilizing Agile methodologies.
   * Perform duties including analysis, design, coding, integration, testing, documentation, and support.
 
-* Teaching Assistant<br><i>Tennessee Technological University, August 2018 – May 2020</i>
+* <b>Teaching Assistant</b><br><i>Tennessee Technological University, August 2018 – May 2020</i>
   * Conduct weekly lab meetings and hold office hours with undergraduate students enrolled in CSC1300 and CSC1310. 
   * Debug students' code to help them work towards a solution while remaining conscious of efficiency, redundancy, and accuracy.
   * Assist course professors by answering questions, hosting in-class quizzes, and grading weekly programming assignments.
   * Draft programming assignments and instructions by collaborating with class professor, encouraging students to utilize intuition in order to effectively solve technical problems.
 
-* Help Desk Student Associate<br><i>Tennessee Technological University, May 2019 – May 2020</i>
+* <b>Help Desk Student Associate</b><br><i>Tennessee Technological University, May 2019 – May 2020</i>
   * Assist faculty, staff and students with technology both in-person and virtually via the Bomgar remote support tool.
   * Document instances and troubleshooting progress via the Footprints ticketing system.
 
-* Resident Assistant<br><i>Tennessee Technological University, August 2017 – May 2019</i>
+* <b>Resident Assistant</b><br><i>Tennessee Technological University, August 2017 – May 2019</i>
   * Design and implement programs for residents that enhance the social, educational, and personal development that connects them to their community.
   
 Skills
@@ -49,6 +49,9 @@ Skills
   * -
 * Troubleshooting
   * -
+* Help Desk Management
+  * -
+
 
 Professional Development and Certifications
 ======
@@ -59,7 +62,7 @@ Professional Development and Certifications
 * Tennessee Technological University Residential Scholar Award, May 2018 & May 2019
 * CSC #HACK Hackathon, 1st Place, Tennessee Technological University, Oct 2018
 
-<!-->
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
