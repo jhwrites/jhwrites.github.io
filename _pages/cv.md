@@ -20,10 +20,12 @@ Professional Development and Certifications
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Application Support Specialist<br>SkyRun Vacation Rentals, March 2021 – February 2023
+  * Work with business support team to plan, research, write, and revise online documentation used by 30+ businesses, used by over 100 employees.
+  * Collaborate with development and other cross-functional teams to ensure technical accuracy of new and existing documentation for proprietary software.
+  * Construct 50+ and maintain 350+ technical documents in FreshService knowledge base.
+  * Prepare escalated requests for development staff in the form of technical guidelines using Jira and Confluence.
+  * Manage administrative server functions, including back-ups, upgrades, recovery, and management of disk space.
 
 * Fall 2015: Research Assistant
   * Github University
