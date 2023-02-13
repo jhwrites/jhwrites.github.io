@@ -13,12 +13,6 @@ Education
 ======
 * B.S. in Computer Science, Tennessee Technological University, 2020
 
-Professional Development and Certifications
-======
-* CompTIA Security+, July 2020
-* Technical Writing: How to Write Software Documentation, Udemy, January 2023
-* SkyRun Vacation Rentals Employee of the Month, October 2022
-
 Work experience
 ======
 * Application Support Specialist<br><i>SkyRun Vacation Rentals, March 2021 – February 2023</i>
@@ -38,23 +32,32 @@ Work experience
   * Assist course professors by answering questions, hosting in-class quizzes, and grading weekly programming assignments.
   * Draft programming assignments and instructions by collaborating with class professor, encouraging students to utilize intuition in order to effectively solve technical problems.
 
-* Help Desk Student Associate<br><i>May 2019 – May 2020</i>
+* Help Desk Student Associate<br><i>Tennessee Technological University, May 2019 – May 2020</i>
   * Assist faculty, staff and students with technology both in-person and virtually via the Bomgar remote support tool.
   * Document instances and troubleshooting progress via the Footprints ticketing system.
 
-* Resident Assistant<br><i>August 2017 – May 2019</i>
+* Resident Assistant<br><i>Tennessee Technological University, August 2017 – May 2019</i>
   * Design and implement programs for residents that enhance the social, educational, and personal development that connects them to their community.
   
 Skills
 ======
 * Documentation and Technical Writing
-  * ---
+  * -
 * Application Support
-  * ---
+  * -
 * Software Development
-  * --
+  * -
 * Troubleshooting
-  * --
+  * -
+
+Professional Development and Certifications
+======
+* Technical Writing: How to Write Software Documentation, Udemy, January 2023
+* SkyRun Vacation Rentals Employee of the Month, October 2022
+* CompTIA Security+, July 2020
+* Cum Laude, B.S. in Computer Science, May 2020
+* Tennessee Technological University Residential Scholar Award, May 2018 & May 2019
+* CSC #HACK Hackathon, 1st Place, Tennessee Technological University, Oct 2018
 
 <!-->
 Publications
