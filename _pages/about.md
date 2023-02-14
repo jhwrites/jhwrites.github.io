@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Justin Holt Portfolio"
+title: "Justin Holt"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
