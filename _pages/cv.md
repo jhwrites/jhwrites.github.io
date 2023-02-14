@@ -42,7 +42,7 @@ Work experience
 Key Skills
 ======
 * Documentation and Technical Writing
-  * User manuals, software documentation, help files, standard operating procedures, troubleshooting guides, developer write-ups, API documentation, document branding
+  * User manuals, software documentation, help files, standard operating procedures, troubleshooting guides, developer write-ups, API documentation, document branding, LucidChart
 * Application Support and User Administration
   * Troubleshooting hardware, troubleshooting software, customer success, user administration, Google Workspace, VoIP
 * Help Desk Management
