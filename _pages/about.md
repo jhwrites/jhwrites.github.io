@@ -25,6 +25,8 @@ Thank you for visiting my website! I am an experienced <b>help desk technician</
   <li>API Documentation</li>
 </ul>
 
-With a wide array of technical knowledge, and an inclination for verbal/written clarity as it relates to documentation, I am looking to kickstart my career and pursuing Technical Writing not only as a career, but as a passion. If I can help you or your company <b>build, manage, or edit documentation</b>, please reach out to me via email: <b>justinsholt50@gmail.com</b>. For some examples of articles I have written throughout my experience as a documentation specialist, please click <b>Portfolio</b> at the top of the page. To get a closer look at my previous experience and some tools and technologies I am familiar with, please click <b>CV</b> at the top of the page.
+With a wide array of technical knowledge, and an inclination for verbal/written clarity as it relates to documentation, I am looking to kickstart my career and pursuing Technical Writing not only as a career, but as a passion. For some examples of articles I have written throughout my experience as a documentation specialist, please click <b>Portfolio</b> at the top of the page. To get a closer look at my previous experience and some tools and technologies I am familiar with, please click <b>CV</b> at the top of the page.
+
+If I can help you or your company <b>build, manage, or edit documentation</b>, please reach out to me via email: <b>justinsholt50@gmail.com</b>.
 
 Thank you so much for taking the time to read my summary. Happy Writing!
